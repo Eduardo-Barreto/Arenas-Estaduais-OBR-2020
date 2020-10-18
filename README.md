@@ -1,5 +1,6 @@
 # Arenas-Estaduais-OBR-2020
-Arenas da etapa estadual da OBR 2020 modalidade prática simulação
+Arenas das Etapas Estaduais da OBR 2020 - Modalidade Prática Simulação
+> OBS: Essas arenas são das estaduais que já foram, não necessariamente serão essas nas próximas
 
 [Nível 1](#Nível-1)
 1. [Dia 16/10 - AC / PR / PI / MS / RR](#dia-1610---ac--pr--pi--ms--rr)
