@@ -58,7 +58,7 @@ Arenas das Etapas Estaduais da OBR 2020 - Modalidade Prática Simulação
 
 ![Imagem Rodada 2](Imagens/Nivel_2/Rodada_2.png)
 
-### Rodada 3 (Pontuação máxima: 550)
+### Rodada 3 (Pontuação máxima: 590)
 
 ```
 0000r0000,0010rz000,0020cf000,1020rY090,2020c1090,2010r4000,2000c5270,3000rx270,4000r0270,5000c0180,5010c0090,4010r0090,3010ce270,3020cl000,4020r0090,5020c1180,5,HoraDoDia: 18,TempoMxmo: 3,BoolTpFim: true,BoolEndCd: false,BoolShowM: true,BoolTSala: 2,BoolMrcdr: true,BoolPrgso: true,BoolSlnha: true,Descricao: Estadual OBR,VtmsVivas: 1,VtmsMrtas: 4,RobosPerm: 111110
