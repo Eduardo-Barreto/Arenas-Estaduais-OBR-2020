@@ -4,11 +4,11 @@ Arenas das Etapas Estaduais da OBR 2020 - Modalidade Prática Simulação
 
 [Nível 1](#Nível-1)
 1. [Dia 16/10 - AC / PR / PI / MS / RR](#dia-1610---ac--pr--pi--ms--rr)
-
+2. [Dia 19/10 - ES / MA / PA / RO / MG](#dia-1910---es--ma--pa--ro--mg)
 
 [Nível 2](#Nível-2)
 1. [Dia 16/10 - AC / PR / PI / MS / RR](#dia-1610---ac--pr--pi--ms--rr-1)
-
+2. [Dia 19/10 - ES / MA / PA / RO / MG](#dia-1910---es--ma--pa--ro--mg-1)
 
 
 
@@ -37,6 +37,25 @@ Arenas das Etapas Estaduais da OBR 2020 - Modalidade Prática Simulação
 ```
 ![Imagem Rodada 3](Imagens/Estaduais_16.10/Nivel_1/Rodada_3.png)
 
+## Dia 19/10 - ES / MA / PA / RO / MG
+
+### Rodada 1
+```
+0000r0000,0010rA000,0020c1000,1020c0090,1010rP000,1000c0270,2000rz090,3000r0090,4000c7180,4010c0000,5010c5180,5020r0180,3,HoraDoDia: 5,VtmsVivas: 2,BoolTpFim: true,BoolEndCd: false,RobosPerm: 111111,BoolShowM: true,BoolTSala: 1,Descricao: Estaduais 19/10 Nivel 1 Rodada 1,BoolMrcdr: true,BoolPrgso: true,BoolSlnha: true,TempoMxmo: 3,VtmsMrtas: 1
+```
+![Imagem Rodada 1](Imagens/Estaduais_19.10/Nivel_1/Rodada_1.png)
+
+### Rodada 2
+```
+0000r0000,0010rP000,0020c0000,1020rm090,2020r0090,3020c0090,3010r4180,3000c1270,4000ry270,5000c0180,5010rx180,5020r0180,2,HoraDoDia:11,BoolTpFim: true,BoolEndCd: false,BoolShowM: true,BoolTSala: 1,Descricao: Estaduais 19/10 Nivel 1 Rodada 2,BoolMrcdr: true,BoolPrgso: true,TempoMxmo: 3,BoolSlnha: true,RobosPerm: 111110,VtmsVivas: 1,VtmsMrtas: 2
+```
+![Imagem Rodada 2](Imagens/Estaduais_19.10/Nivel_1/Rodada_2.png)
+
+### Rodada 3
+```
+0000r0000,0010c0000,1010ch180,1020c1000,2020c0090,2010c1270,3010c1090,3000c0270,4000rw090,5000c5180,5010r0180,5020r1180,6,HoraDoDia: 19,BoolTpFim: true,BoolEndCd: false,BoolShowM: true,BoolTSala: 1,BoolMrcdr: true,BoolPrgso: true,RobosPerm: 111110,BoolSlnha: true,VtmsVivas: 2,VtmsMrtas: 1,TempoMxmo: 3,Descricao: Arena gerada no padrão OBR.
+```
+![Imagem Rodada 3](Imagens/Estaduais_19.10/Nivel_1/Rodada_3.png)
 
 # Nível 2
 
@@ -62,3 +81,23 @@ Arenas das Etapas Estaduais da OBR 2020 - Modalidade Prática Simulação
 0000r0000,0010rz000,0020cf000,1020rY090,2020c1090,2010r4000,2000c5270,3000rx270,4000r0270,5000c0180,5010c0090,4010r0090,3010ce270,3020cl000,4020r0090,5020c1180,5,HoraDoDia: 18,TempoMxmo: 3,BoolTpFim: true,BoolEndCd: false,BoolShowM: true,BoolTSala: 2,BoolMrcdr: true,BoolPrgso: true,BoolSlnha: true,Descricao: Estadual OBR,VtmsVivas: 1,VtmsMrtas: 4,RobosPerm: 111110
 ```
 ![Imagem Rodada 3](Imagens/Estaduais_16.10/Nivel_2/Rodada_3.png)
+
+## Dia 19/10 - ES / MA / PA / RO / MG
+
+### Rodada 1
+```
+0000r0000,0010c2000,1010c5180,1020c1000,2020r1090,3020rP090,4020c2090,4010rS180,4000c7270,5000c7180,5010r0180,5020r1180,3,VtmsVivas: 2,VtmsMrtas: 2,BoolTpFim: true,BoolEndCd: false,BoolShowM: true,BoolMrcdr: true,BoolPrgso: true,BoolSlnha: true,BoolTSala: 2,RobosPerm: 111110,TempoMxmo: 3,HoraDoDia: 5,Descricao: Estaduais 19/10 Nivel 2 Rodada 1
+```
+![Imagem Rodada 1](Imagens/Estaduais_19.10/Nivel_2/Rodada_1.png)
+
+### Rodada 2
+```
+0000r0000,0010r0180,0020c0000,1020c0090,1010r0180,1000c0270,2000c7180,2010r4180,2020ch000,3020r1090,4020c2090,4010rB180,4000c7270,5000ch180,5010rz000,5020r0180,2,VtmsVivas: 2,VtmsMrtas: 2,BoolTpFim: true,BoolEndCd: false,BoolShowM: true,BoolMrcdr: true,BoolPrgso: true,BoolTSala: 2,RobosPerm: 111110,HoraDoDia: 11,BoolSlnha: true,Descricao: Estaduais 19/10 Nivel 2 Rodada 2,TempoMxmo: 3
+```
+![Imagem Rodada 1](Imagens/Estaduais_19.10/Nivel_2/Rodada_2.png)
+
+### Rodada 2
+```
+0000r0000,0010c4000,1010c7180,1020c1000,2020c7090,2010ro180,2000c7270,3000c7180,3010rz000,3020cj000,4020c2090,4010cj270,5010ch180,5020r0180,6,VtmsVivas: 2,VtmsMrtas: 2,BoolTpFim: true,BoolEndCd: false,BoolShowM: true,BoolMrcdr: true,BoolPrgso: true,BoolTSala: 2,RobosPerm: 111110,HoraDoDia: 19,BoolSlnha: true,TempoMxmo: 3,Descricao: Estaduais 19/10 Nivel 2 Rodada 3
+```
+![Imagem Rodada 1](Imagens/Estaduais_19.10/Nivel_2/Rodada_3.png)
